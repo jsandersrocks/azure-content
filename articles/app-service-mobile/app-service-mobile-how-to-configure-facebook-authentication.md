@@ -60,6 +60,8 @@ To complete the procedure in this topic, you must have a Facebook account that h
 
 4. When done configuring authentication, click **Save**.
 
+5. Test your setup by going to your browser and trying to login.  For example:  https://contoso.azurewebsites.net/.auth/login/facebook .  If there are any configuration errors with your facebook setup, you will be able to see these in the browser.  You can also take an https trace using Postman or Fiddler to catch any issues.  
+
 You are now ready to use Facebook for authentication in your app.
 
 ## <a name="related-content"> </a>Related Content
